@@ -1,4 +1,4 @@
-CFMeteor
+DEPRECATED CFMeteor: no longer works
 ============
 
 <http://www.meteor.com> apps are really awesome but they only run on <*.meteor.com> domains. CFMeteor is a helper module to help easily run Meteor apps on Cloud Foundry!
